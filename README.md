@@ -1,6 +1,9 @@
-# Hi, I'm Mikhail 👋
+# Mikhail Smusev / Chnurok 👋
 
 I build practical software: AI workflows, Telegram bots, lightweight web products, and internal tools that solve real operational problems.
+
+**Based in:** Buenos Aires, Argentina  
+**Also known as:** `@mikesmuzy`
 
 ## What I focus on
 
@@ -12,11 +15,12 @@ I build practical software: AI workflows, Telegram bots, lightweight web product
 
 ## Selected projects
 
-- [whisper-transcription-server](https://github.com/Chnurok/whisper-transcription-server) — local HTTP bridge that exposes Groq Whisper behind a Deepgram-compatible API
-- [gmail-checker](https://github.com/Chnurok/gmail-checker) — small Gmail watcher that summarizes unread email and ships the digest to Telegram
-- [food-scanner-bot](https://github.com/Chnurok/food-scanner-bot) — Telegram bot that analyzes food labels with vision AI and personal health context
+- [whisper-transcription-server](https://github.com/Chnurok/whisper-transcription-server) — Deepgram-compatible HTTP bridge for Groq Whisper
+- [gmail-checker](https://github.com/Chnurok/gmail-checker) — compact Gmail-to-Telegram digest bot for unread mail
+- [food-scanner-bot](https://github.com/Chnurok/food-scanner-bot) — vision-powered Telegram bot for food label analysis
+- [vpn-telegram-bot](https://github.com/Chnurok/vpn-telegram-bot) — access + promo-code workflow for a VPN subscription bot
 - [nu-pogodi-game](https://github.com/Chnurok/nu-pogodi-game) — classic handheld game rebuilt as a Telegram Mini App
-- [calden-restaurant-website](https://github.com/Chnurok/calden-restaurant-website) — premium restaurant website and client-ready sales kit
+- [calden-restaurant-website](https://github.com/Chnurok/calden-restaurant-website) — premium restaurant website plus client-ready sales kit
 
 ## How I like to work
 
