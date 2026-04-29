@@ -1,6 +1,6 @@
 # Mikhail Smusev / Chnurok 👋
 
-I build practical software: AI workflows, Telegram bots, lightweight web products, and internal tools that solve real operational problems.
+I build practical software: AI workflows, Telegram bots, lightweight web products, client portals, and internal tools that solve real operational problems.
 
 **Based in:** Buenos Aires, Argentina  
 **Also known as:** `@mikesmuzy`
@@ -8,10 +8,15 @@ I build practical software: AI workflows, Telegram bots, lightweight web product
 ## What I focus on
 
 - **AI automation & agent workflows**
+- **Client portals and small SaaS-style products**
 - **Telegram bots and mini apps**
 - **Speech / transcription tooling**
-- **Small deployable web products**
 - **Useful internal tools over demo-only experiments**
+
+## Current product direction
+
+- **Vibe Portal** — AI-assisted client portal direction for lightweight service businesses
+- **Client Portal** — white-label workspace for projects, updates, files, and next steps
 
 ## Selected projects
 
@@ -44,4 +49,4 @@ I build practical software: AI workflows, Telegram bots, lightweight web product
 
 ## Currently interested in
 
-Applied AI, product automation, assistant workflows, small business tools, and software that earns its keep quickly.
+Applied AI, client portals, product automation, assistant workflows, small business tools, and software that earns its keep quickly.
