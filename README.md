@@ -33,6 +33,10 @@ I’m especially focused on **productized automation** for service businesses:
 - [**whisper-transcription-server**](https://github.com/Chnurok/whisper-transcription-server) — Deepgram-compatible HTTP bridge powered by Groq Whisper
 - [**gmail-checker**](https://github.com/Chnurok/gmail-checker) — Gmail monitoring with AI summaries delivered to Telegram
 - [**food-scanner-bot**](https://github.com/Chnurok/food-scanner-bot) — vision-powered Telegram bot for food label analysis
+- [**openclaw-installer-bot**](https://github.com/Chnurok/openclaw-installer-bot) — Telegram onboarding bot that installs and bootstraps OpenClaw on remote VPS servers
+
+### Internal tools / ops products
+- [**b2b-outreach-editor**](https://github.com/Chnurok/b2b-outreach-editor) — lightweight review tool for AI-assisted outreach drafts, approvals, sending, and reply tracking
 
 ### Bots / interactive products
 - [**vpn-telegram-bot**](https://github.com/Chnurok/vpn-telegram-bot) — Telegram-first VPN access bot with promo codes and subscription links
@@ -67,5 +71,6 @@ If you want the fastest sense of what I build, start with:
 - **vibe-portal**
 - **client-portal**
 - **whisper-transcription-server**
-- **gmail-checker**
+- **openclaw-installer-bot**
+- **b2b-outreach-editor**
 - **CV**
