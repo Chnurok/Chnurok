@@ -1,43 +1,51 @@
 # Mikhail Smusev / Chnurok 👋
 
-I build practical software: AI workflows, client portals, Telegram products, and lightweight internal tools that solve real operational problems.
-
-Right now the strongest direction is simple productized software for service businesses: client portals, assistant workflows, and Telegram-first tools that are actually deployable.
+I build practical software: **AI automation, client portals, Telegram products, and small internal tools that solve real operational problems.**
 
 **Based in:** Buenos Aires, Argentina  
-**Also known as:** `@mikesmuzy`
+**Also known as:** [`@mikesmuzy`](https://github.com/Chnurok)  
+**Profile/CV:** [CV repository](https://github.com/Chnurok/CV)
 
-## What I focus on
+## What I’m good at
 
-- **AI automation & agent workflows**
-- **Client portals and small SaaS-style products**
-- **Telegram bots and mini apps**
-- **Speech / transcription tooling**
-- **Useful internal tools over demo-only experiments**
+- turning messy workflows into simple products
+- shipping useful tools fast
+- building Telegram-first experiences
+- wiring AI into real business processes
+- keeping projects lightweight, deployable, and understandable
 
-## Current product direction
+## Current direction
 
-- **Vibe Portal** — AI-assisted client portal direction for lightweight service businesses
-- **Client Portal** — white-label workspace for projects, updates, files, and next steps
+I’m especially focused on **productized automation** for service businesses:
+
+- **client portals**
+- **assistant workflows**
+- **AI-powered internal tools**
+- **small software products that earn their keep quickly**
 
 ## Selected projects
 
-- [vibe-portal](https://github.com/Chnurok/vibe-portal) — AI-assisted client portal direction for lightweight service businesses
-- [client-portal](https://github.com/Chnurok/client-portal) — white-label workspace for projects, updates, files, and next steps
-- [whisper-transcription-server](https://github.com/Chnurok/whisper-transcription-server) — Deepgram-compatible HTTP bridge for Groq Whisper
-- [gmail-checker](https://github.com/Chnurok/gmail-checker) — compact Gmail-to-Telegram digest bot for unread mail
-- [food-scanner-bot](https://github.com/Chnurok/food-scanner-bot) — vision-powered Telegram bot for food label analysis
-- [vpn-telegram-bot](https://github.com/Chnurok/vpn-telegram-bot) — access + promo-code workflow for a VPN subscription bot
-- [nu-pogodi-game](https://github.com/Chnurok/nu-pogodi-game) — classic handheld game rebuilt as a Telegram Mini App
-- [calden-restaurant-website](https://github.com/Chnurok/calden-restaurant-website) — premium restaurant website plus client-ready sales kit
+### Product / portal direction
+- [**vibe-portal**](https://github.com/Chnurok/vibe-portal) — AI-assisted client portal direction for lightweight service businesses
+- [**client-portal**](https://github.com/Chnurok/client-portal) — white-label workspace for projects, updates, files, and next steps
 
-## How I like to work
+### AI / automation
+- [**whisper-transcription-server**](https://github.com/Chnurok/whisper-transcription-server) — Deepgram-compatible HTTP bridge powered by Groq Whisper
+- [**gmail-checker**](https://github.com/Chnurok/gmail-checker) — Gmail monitoring with AI summaries delivered to Telegram
+- [**food-scanner-bot**](https://github.com/Chnurok/food-scanner-bot) — vision-powered Telegram bot for food label analysis
 
-- ship small but real tools
-- keep setup simple
-- prefer practical automation over hype
-- turn messy workflows into something repeatable
-- package ideas into products, not just code dumps
+### Bots / interactive products
+- [**vpn-telegram-bot**](https://github.com/Chnurok/vpn-telegram-bot) — Telegram-first VPN access bot with promo codes and subscription links
+- [**nu-pogodi-game**](https://github.com/Chnurok/nu-pogodi-game) — classic handheld game rebuilt as a Telegram Mini App
+- [**calden-restaurant-website**](https://github.com/Chnurok/calden-restaurant-website) — premium restaurant website package with a client-ready sales kit
+
+## How I work
+
+- practical over flashy
+- product-minded, not demo-minded
+- fast iteration, clean packaging
+- real deployment over toy examples
+- automation that saves time, not just looks clever
 
 ## Contribution graph
 
@@ -52,11 +60,7 @@ Right now the strongest direction is simple productized software for service bus
   />
 </picture>
 
-## Currently interested in
-
-Applied AI, client portals, product automation, assistant workflows, small business tools, and software that earns its keep quickly.
-
-## Best repos to start with
+## Good starting points
 
 If you want the fastest sense of what I build, start with:
 
@@ -64,3 +68,4 @@ If you want the fastest sense of what I build, start with:
 - **client-portal**
 - **whisper-transcription-server**
 - **gmail-checker**
+- **CV**
