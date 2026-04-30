@@ -20,6 +20,8 @@ I build practical software: AI workflows, Telegram bots, lightweight web product
 
 ## Selected projects
 
+- [vibe-portal](https://github.com/Chnurok/vibe-portal) — AI-assisted client portal direction for lightweight service businesses
+- [client-portal](https://github.com/Chnurok/client-portal) — white-label workspace for projects, updates, files, and next steps
 - [whisper-transcription-server](https://github.com/Chnurok/whisper-transcription-server) — Deepgram-compatible HTTP bridge for Groq Whisper
 - [gmail-checker](https://github.com/Chnurok/gmail-checker) — compact Gmail-to-Telegram digest bot for unread mail
 - [food-scanner-bot](https://github.com/Chnurok/food-scanner-bot) — vision-powered Telegram bot for food label analysis
