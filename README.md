@@ -1,5 +1,7 @@
 # Mikhail Smusev / Chnurok 👋
 
+Portfolio / CV / GitHub profile
+
 I build practical **AI tools, automation workflows, Telegram-first products, and small useful software**.
 
 **Based in:** Buenos Aires, Argentina  
